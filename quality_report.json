@@ -1,0 +1,173 @@
+{
+  "project": "landing",
+  "average_score": 86.63,
+  "files": [
+    {
+      "file_path": "src/index.html",
+      "overall_score": 96.1,
+      "passed": false,
+      "category_scores": {
+        "architecture": 100,
+        "readability": 95.0,
+        "performance": 100,
+        "security": 100,
+        "responsive": 95.0,
+        "accessibility": 95.0,
+        "seo": 95.0,
+        "maintainability": 100,
+        "visual_design": 85.0,
+        "overall": 96.1
+      },
+      "failures": [
+        "responsive: 95.0 < 98",
+        "accessibility: 95.0 < 100",
+        "seo: 95.0 < 98",
+        "visual_design: 85.0 < 98",
+        "overall: 96.1 < 97"
+      ]
+    },
+    {
+      "file_path": "package.json",
+      "overall_score": 98.1,
+      "passed": true,
+      "category_scores": {
+        "architecture": 95.0,
+        "readability": 95.0,
+        "performance": 100,
+        "security": 95.0,
+        "responsive": 100,
+        "accessibility": 100,
+        "seo": 100,
+        "maintainability": 100,
+        "visual_design": 100,
+        "overall": 98.1
+      },
+      "failures": []
+    },
+    {
+      "file_path": "src/components/CoverShowcase.jsx",
+      "overall_score": 97.8,
+      "passed": true,
+      "category_scores": {
+        "architecture": 95.0,
+        "readability": 95.0,
+        "performance": 95.0,
+        "security": 95.0,
+        "responsive": 100,
+        "accessibility": 100,
+        "seo": 100,
+        "maintainability": 100,
+        "visual_design": 100,
+        "overall": 97.8
+      },
+      "failures": []
+    },
+    {
+      "file_path": "src/components/HeroSection.jsx",
+      "overall_score": 96.3,
+      "passed": false,
+      "category_scores": {
+        "architecture": 95.0,
+        "readability": 85.0,
+        "performance": 85.0,
+        "security": 95.0,
+        "responsive": 100,
+        "accessibility": 100,
+        "seo": 100,
+        "maintainability": 100,
+        "visual_design": 100,
+        "overall": 96.3
+      },
+      "failures": [
+        "readability: 85.0 < 95",
+        "performance: 85.0 < 95",
+        "overall: 96.3 < 97"
+      ]
+    },
+    {
+      "file_path": "src/components/NavigationBar.jsx",
+      "overall_score": 97.8,
+      "passed": true,
+      "category_scores": {
+        "architecture": 95.0,
+        "readability": 95.0,
+        "performance": 95.0,
+        "security": 95.0,
+        "responsive": 100,
+        "accessibility": 100,
+        "seo": 100,
+        "maintainability": 100,
+        "visual_design": 100,
+        "overall": 97.8
+      },
+      "failures": []
+    },
+    {
+      "file_path": "src/components/Footer.jsx",
+      "overall_score": 97.8,
+      "passed": true,
+      "category_scores": {
+        "architecture": 95.0,
+        "readability": 95.0,
+        "performance": 95.0,
+        "security": 95.0,
+        "responsive": 100,
+        "accessibility": 100,
+        "seo": 100,
+        "maintainability": 100,
+        "visual_design": 100,
+        "overall": 97.8
+      },
+      "failures": []
+    },
+    {
+      "file_path": "src/styles/CSSModules.css",
+      "overall_score": 98.0,
+      "passed": false,
+      "category_scores": {
+        "architecture": 100,
+        "readability": 95.0,
+        "performance": 100,
+        "security": 100,
+        "responsive": 95.0,
+        "accessibility": 100,
+        "seo": 100,
+        "maintainability": 100,
+        "visual_design": 90.0,
+        "overall": 98.0
+      },
+      "failures": [
+        "responsive: 95.0 < 98",
+        "visual_design: 90.0 < 98"
+      ]
+    },
+    {
+      "file_path": "src/pages/LandingPage.jsx",
+      "overall_score": 97.8,
+      "passed": true,
+      "category_scores": {
+        "architecture": 95.0,
+        "readability": 95.0,
+        "performance": 95.0,
+        "security": 95.0,
+        "responsive": 100,
+        "accessibility": 100,
+        "seo": 100,
+        "maintainability": 100,
+        "visual_design": 100,
+        "overall": 97.8
+      },
+      "failures": []
+    },
+    {
+      "file_path": "src/index.html",
+      "overall_score": 0,
+      "passed": false,
+      "category_scores": {},
+      "failures": [
+        "Unclosed HTML tags: html, body, section"
+      ]
+    }
+  ],
+  "generated_files": 9
+}
